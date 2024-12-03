@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "ACRTUmVIPE4=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Seyfullah Kurt\\Desktop\\SeyfullahKurt_20010310026\\MauiApp1\\MauiApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Microsoft.Extensions.Logging.Debug paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Logging.Debug",
+      "targetGraphs": [
+        "net7.0-android21.0",
+        "net7.0-ios1.0",
+        "net7.0-maccatalyst1.0",
+        "net7.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Microsoft.Windows.SDK.NET.Ref paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Windows.SDK.NET.Ref",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041"
+      ]
+    }
+  ]
+}
